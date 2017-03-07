@@ -53,9 +53,9 @@
     <nav>
     	<h2><a href="#menu" class="icon-align-justify"><span>Menu</span></a></h2>
         <ul id="menu">
-            <li><a href="index.html#work">Recent Work</a></li>
-            <li><a href="index.html#about">About</a></li>
-            <li><a href="index.html#contact">Contact</a></li>
+            <li><a href="/#work">Recent Work</a></li>
+            <li><a href="/#about">About</a></li>
+            <li><a href="/#contact">Contact</a></li>
             <li><a href="resume.html">R&eacute;sum&eacute;</a></li>
         </ul>
         <h2 class="close"><a href="#" class="icon-align-justify"><span>Close Menu</span></a></h2>
