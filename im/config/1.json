@@ -3,5 +3,6 @@
     "audio-voices": "Google US English",
     "background-color": "#000",
     "text-color": "#fff",
-    "read-this": "Test"
+    "read-this": "Test",
+    "img": "https://raw.githubusercontent.com/ashleycallahan/ashleycallahan.github.io/refs/heads/master/im/config/1.png"
 }
